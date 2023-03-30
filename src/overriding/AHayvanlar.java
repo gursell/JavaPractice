@@ -4,7 +4,7 @@ public class AHayvanlar {
     String isim="Hayvan Isim belirtilmedi";
 
     void hareket(){
-        System.out.println("Hayvanlar hareket eder");
+        System.out.println("Hayvanlar hareket eder...");
     }
     void solunum(){
         System.out.println("Hayvanlar nefes alir");
